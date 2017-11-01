@@ -2,3 +2,4 @@
 Application/Admin/Conf/config.php
 .htaccess
 upload/*
+!upload
