@@ -1,0 +1,53 @@
+[ 2017-08-05T17:30:00+08:00 ] 127.0.0.1 /home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2017-08-05T17:30:04+08:00 ] 127.0.0.1 /home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-08-05T17:30:14+08:00 ] 127.0.0.1 /home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-08-05T17:30:18+08:00 ] 127.0.0.1 /home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-08-05T17:30:25+08:00 ] 127.0.0.1 /home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-08-05T17:30:26+08:00 ] 127.0.0.1 /home/user/U(Home/Index/index)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 非法操作:U(Home
+
+[ 2017-08-05T17:30:58+08:00 ] 127.0.0.1 /home/user/U(Home/Index/index)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 非法操作:U(Home
+
+[ 2017-08-05T17:31:16+08:00 ] 127.0.0.1 /home/user/U(Home/Index/index)
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 非法操作:U(Home
+
+[ 2017-08-05T17:31:20+08:00 ] 127.0.0.1 /home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+
+[ 2017-08-05T17:31:21+08:00 ] 127.0.0.1 /index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+

@@ -1,0 +1,12 @@
+[ 2017-07-29T16:25:27+08:00 ] 127.0.0.1 /geekSchool/thinkphp/index/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Index
+
+[ 2017-07-29T16:25:33+08:00 ] 127.0.0.1 /geekSchool/thinkphp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Index
+

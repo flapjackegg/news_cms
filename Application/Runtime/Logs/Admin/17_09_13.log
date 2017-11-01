@@ -1,0 +1,40 @@
+[ 2017-09-13T18:24:00+08:00 ] 127.0.0.1 /admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+
+[ 2017-09-13T18:24:07+08:00 ] 127.0.0.1 /admin.php/login/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php on line 18 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `admin` WHERE ( username ="admin" ) LIMIT 1   [ RunTime:0.0060s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php 第 37 行.
+
+[ 2017-09-13T18:24:08+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+
+[ 2017-09-13T18:25:10+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-09-13T18:25:17+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-09-13T18:25:19+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+

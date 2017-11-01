@@ -1,0 +1,115 @@
+[ 2017-10-14T16:12:16+08:00 ] 127.0.0.1 /admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+
+[ 2017-10-14T16:12:24+08:00 ] 127.0.0.1 /admin.php/login/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php on line 18 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0480s ]
+SQL: SELECT * FROM `admin` WHERE ( username ="admin" ) LIMIT 1   [ RunTime:0.0093s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php 第 37 行.
+
+[ 2017-10-14T16:12:26+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-10-14T16:12:28+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-10-14T16:12:31+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-10-14T16:15:02+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000873s ]
+
+[ 2017-10-14T16:15:14+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `menu` WHERE `status` = 1 AND `type` = 1 ORDER BY menu_id  [ RunTime:0.0004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017194s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000473s ]
+
+[ 2017-10-14T16:15:16+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000122s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `menu` WHERE `status` = 1 AND `type` = 1 ORDER BY menu_id  [ RunTime:0.0003s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014834s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000333s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2017-10-14T16:45:54+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001580s ]
+
+[ 2017-10-14T16:45:56+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-10-14T16:45:57+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-10-14T16:45:58+08:00 ] 127.0.0.1 /admin.php/positioncontent/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+ERR: 无法加载控制器:Positioncontent
+
+[ 2017-10-14T16:46:01+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-10-14T16:46:01+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+

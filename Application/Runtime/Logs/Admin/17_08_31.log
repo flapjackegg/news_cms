@@ -1,0 +1,126 @@
+[ 2017-08-31T09:05:51+08:00 ] 127.0.0.1 /admin.php?type=&c=menu&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001838s ]
+
+[ 2017-08-31T09:05:59+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-08-31T11:22:05+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001368s ]
+
+[ 2017-08-31T11:25:56+08:00 ] 127.0.0.1 /admin.php/login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-08-31T11:25:56+08:00 ] 127.0.0.1 /admin.php/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-08-31T11:26:29+08:00 ] 127.0.0.1 /admin.php/login/check
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000844s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php on line 18 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `admin` [ RunTime:0.0329s ]
+SQL: SELECT * FROM `admin` WHERE ( username ="admin" ) LIMIT 1   [ RunTime:0.0072s ]
+NOTIC: [8] Use of undefined constant password - assumed 'password' /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/LoginController.class.php 第 37 行.
+
+[ 2017-08-31T11:26:31+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-08-31T11:33:32+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+
+[ 2017-08-31T11:33:38+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2017-08-31T11:34:05+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000167s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2017-08-31T11:34:08+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2017-08-31T11:49:55+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000972s ]
+
+[ 2017-08-31T11:50:19+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-08-31T11:50:57+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+
+[ 2017-08-31T11:51:24+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2017-08-31T11:52:32+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-08-31T11:52:57+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2017-08-31T11:54:29+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-08-31T11:54:31+08:00 ] 127.0.0.1 /admin.php/admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+ERR: 无法加载控制器:Admin.php
+
+[ 2017-08-31T11:54:43+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-08-31T11:54:45+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-08-31T11:54:47+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2017-08-31T11:54:53+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+

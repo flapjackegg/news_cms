@@ -1,0 +1,5 @@
+[ 2017-09-01T09:21:22+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001725s ]
+

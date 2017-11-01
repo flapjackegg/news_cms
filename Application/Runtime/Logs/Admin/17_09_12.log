@@ -1,0 +1,784 @@
+[ 2017-09-12T10:07:31+08:00 ] 127.0.0.1 /admin.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+
+[ 2017-09-12T10:07:32+08:00 ] 127.0.0.1 /admin.php/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-09-12T10:07:34+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2017-09-12T10:07:44+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0008s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=28 ) [ RunTime:0.0024s ]
+
+[ 2017-09-12T10:07:45+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2017-09-12T10:07:48+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0008s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=29 ) [ RunTime:0.0021s ]
+
+[ 2017-09-12T10:07:49+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-09-12T10:07:52+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000387s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0009s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=30 ) [ RunTime:0.0007s ]
+
+[ 2017-09-12T10:07:54+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-09-12T10:07:56+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0007s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=31 ) [ RunTime:0.0020s ]
+
+[ 2017-09-12T10:07:58+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-09-12T10:08:00+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=32 ) [ RunTime:0.0007s ]
+
+[ 2017-09-12T10:08:01+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-09-12T10:08:05+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-09-12T10:08:07+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-09-12T10:08:09+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-09-12T10:08:11+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-09-12T10:08:14+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-09-12T10:08:17+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+
+[ 2017-09-12T10:08:20+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-09-12T10:08:30+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=34 ) [ RunTime:0.0021s ]
+
+[ 2017-09-12T10:08:31+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+
+[ 2017-09-12T10:08:35+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=35 ) [ RunTime:0.0066s ]
+
+[ 2017-09-12T10:08:36+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-09-12T10:08:39+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=37 ) [ RunTime:0.0006s ]
+
+[ 2017-09-12T10:08:41+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-09-12T10:08:44+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000278s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=38 ) [ RunTime:0.0023s ]
+
+[ 2017-09-12T10:08:45+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-09-12T10:08:48+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0007s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=44 ) [ RunTime:0.0020s ]
+
+[ 2017-09-12T10:08:50+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-09-12T10:08:54+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0007s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=45 ) [ RunTime:0.0024s ]
+
+[ 2017-09-12T10:08:54+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-09-12T10:08:58+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=46 ) [ RunTime:0.0008s ]
+
+[ 2017-09-12T10:08:59+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-09-12T10:09:03+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=43 ) [ RunTime:0.0020s ]
+
+[ 2017-09-12T10:09:04+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-09-12T10:09:07+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=42 ) [ RunTime:0.0021s ]
+
+[ 2017-09-12T10:09:08+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-09-12T10:09:11+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000399s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=41 ) [ RunTime:0.0026s ]
+
+[ 2017-09-12T10:09:12+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-09-12T10:09:15+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0006s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=40 ) [ RunTime:0.0030s ]
+
+[ 2017-09-12T10:09:16+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-09-12T10:09:18+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+
+[ 2017-09-12T10:09:20+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-09-12T10:09:24+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=39 ) [ RunTime:0.0020s ]
+
+[ 2017-09-12T10:09:25+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-09-12T10:09:30+08:00 ] 127.0.0.1 /admin.php/menu/setStatus
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0005s ]
+SQL: UPDATE `menu` SET `status`='-1' WHERE ( menu_id=36 ) [ RunTime:0.0019s ]
+
+[ 2017-09-12T10:09:31+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-09-12T10:09:33+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-09-12T10:09:35+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2017-09-12T10:09:46+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-09-12T10:09:48+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-09-12T10:09:50+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-09-12T10:09:52+08:00 ] 127.0.0.1 /admin.php/Menu/index/p/1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-09-12T10:09:59+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2017-09-12T10:10:01+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-09-12T10:10:02+08:00 ] 127.0.0.1 /admin.php/menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002561s ]
+
+[ 2017-09-12T10:23:27+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+
+[ 2017-09-12T10:23:47+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/14
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-09-12T10:29:21+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-09-12T10:30:29+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+
+[ 2017-09-12T10:41:51+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+
+[ 2017-09-12T10:42:04+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-09-12T10:42:55+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-09-12T10:43:41+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2017-09-12T10:44:05+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+
+[ 2017-09-12T10:44:08+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+
+[ 2017-09-12T10:44:59+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+
+[ 2017-09-12T10:45:13+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-09-12T10:45:56+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+
+[ 2017-09-12T10:46:31+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-09-12T10:46:34+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-09-12T10:47:04+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2017-09-12T10:47:34+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-09-12T10:47:44+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-09-12T10:48:35+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2017-09-12T10:48:39+08:00 ] 127.0.0.1 /admin.php/guanggao/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+ERR: 无法加载控制器:Guanggao
+
+[ 2017-09-12T10:48:59+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-09-12T10:49:05+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+
+[ 2017-09-12T10:49:18+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+
+[ 2017-09-12T10:49:23+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-09-12T10:49:26+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+
+[ 2017-09-12T10:50:26+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-09-12T10:50:33+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-09-12T10:50:44+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+NOTIC: [8] Undefined index: menu_id /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0008s ]
+SQL: INSERT INTO `menu` (`name`,`type`,`m`,`c`,`f`,`status`) VALUES ('test','1','index','test','index','1') [ RunTime:0.0023s ]
+
+[ 2017-09-12T10:50:45+08:00 ] 127.0.0.1 /admin.php/menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-09-12T10:51:24+08:00 ] 127.0.0.1 /admin.php/menu/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+
+[ 2017-09-12T10:52:56+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000621s ]
+
+[ 2017-09-12T10:53:05+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0006s ]
+SQL: UPDATE `menu` SET `name`='test',`type`='1',`m`='index',`c`='index',`f`='index',`status`='1' WHERE ( menu_id=47 ) [ RunTime:0.0031s ]
+
+[ 2017-09-12T10:53:06+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2017-09-12T10:54:35+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-09-12T10:56:35+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000624s ]
+
+[ 2017-09-12T10:58:19+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-09-12T10:58:22+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000453s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0007s ]
+SQL: UPDATE `menu` SET `name`='test',`type`='1',`m`='home',`c`='index',`f`='index',`status`='1' WHERE ( menu_id=47 ) [ RunTime:0.0024s ]
+
+[ 2017-09-12T10:58:24+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-09-12T10:58:33+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2017-09-12T10:58:43+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000615s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0006s ]
+SQL: UPDATE `menu` SET `name`='test',`type`='1',`m`='index',`c`='home',`f`='index',`status`='1' WHERE ( menu_id=47 ) [ RunTime:0.0020s ]
+
+[ 2017-09-12T10:58:44+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-09-12T14:56:30+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-09-12T14:56:50+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-09-12T15:00:36+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2017-09-12T15:00:39+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2017-09-12T15:13:35+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/47
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+
+[ 2017-09-12T15:13:39+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-09-12T15:13:42+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-09-12T15:14:34+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-09-12T15:14:36+08:00 ] 127.0.0.1 /admin.php/blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载控制器:Blog
+
+[ 2017-09-12T15:14:43+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+
+[ 2017-09-12T15:14:45+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2017-09-12T15:14:47+08:00 ] 127.0.0.1 /admin.php/blog/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+ERR: 无法加载控制器:Blog
+
+[ 2017-09-12T15:15:22+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-09-12T15:15:24+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+
+[ 2017-09-12T15:15:26+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2017-09-12T15:16:06+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2017-09-12T15:16:09+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2017-09-12T15:16:10+08:00 ] 127.0.0.1 /admin.php/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-09-12T15:18:08+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2017-09-12T15:18:12+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2017-09-12T15:18:18+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0006s ]
+SQL: UPDATE `menu` SET `name`='文章管理',`type`='1',`m`='admin',`c`='content',`f`='index',`status`='1' WHERE ( menu_id=15 ) [ RunTime:0.0023s ]
+
+[ 2017-09-12T15:18:19+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2017-09-12T15:18:23+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+ERR: 无法加载控制器:Content
+
+[ 2017-09-12T15:18:43+08:00 ] 127.0.0.1 /admin.php/menu/edit/id/16
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+
+[ 2017-09-12T15:18:49+08:00 ] 127.0.0.1 /admin.php/menu/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+NOTIC: [2] Missing argument 1 for I(), called in /Applications/XAMPP/xamppfiles/htdocs/news/Application/Admin/Controller/MenuController.class.php on line 36 and defined /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 271 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 273 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 278 行.
+NOTIC: [8] Undefined variable: name /Applications/XAMPP/xamppfiles/htdocs/news/ThinkPHP/Common/functions.php 第 339 行.
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0018s ]
+SQL: UPDATE `menu` SET `name`='广告管理',`type`='1',`m`='admin',`c`='positioncontent',`f`='index',`status`='1' WHERE ( menu_id=16 ) [ RunTime:0.0015s ]
+
+[ 2017-09-12T15:18:50+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-09-12T15:21:38+08:00 ] 127.0.0.1 /admin.php/menu/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-09-12T15:21:40+08:00 ] 127.0.0.1 /admin.php/content/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2017-09-12T15:21:46+08:00 ] 127.0.0.1 /admin.php?c=content&a=add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+
